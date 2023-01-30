@@ -24,11 +24,18 @@ O resultado final será um controlador de fita de LED 5050 eficiente, de fácil 
 
 ### Especificações do Projeto
 Este Projeto funciona com uma fonte de alimentação de 12V com uma corrente necessária para atingir o brilho máximo da sua fita de led, o recomendado normalmente é uma fonte de 12V a 10A.
+    
+### Firmware Tasmota
+Para instalar o tasmota em seu dispositivo ESP32 clique [aqui](https://tasmota.github.io/install/) e siga o passo a passo
+<br>Após a instalação e configuração da rede wifi, guarde o endereço IP do dispositivo para acessar sua página de configurações, vá em configuração, configurar módulo, copie as informações da imagem abaixo e clique em salvar, após isso seu dispositivo estarrá pronto para uso.
+<br>
+<br><img src="https://github.com/lfs676/ESP32-LED-Strip-Controller/blob/main/images/Tasmota Config.png?raw=true">
+    
 
 #
-#
+# Esquemático do Projeto
 <img src="https://github.com/lfs676/ESP32-LED-Strip-Controller/blob/main/images/Schematic.jpg?raw=true">
 
 #
-#
+# Layout da Placa de Circuito Impresso
 <img src="https://github.com/lfs676/ESP32-LED-Strip-Controller/blob/main/images/Layout.png?raw=true">
