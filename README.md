@@ -1,5 +1,5 @@
 ## Controlador de FIta de LED 5050 com ESP32
-<img src="https://github.com/lfs676/Fonte-Regulavel-12V/blob/main/images/Layout.png?raw=true">
+<img src="https://github.com/lfs676/ESP32-LED-Strip-Controller/blob/cac4fa888317f29346d45a34c6607a1df12e5630/images/3D.png?raw=true">
 
 <div>
   <div align="justify">
@@ -27,12 +27,8 @@ Este Projeto funciona com uma fonte de alimentação de 12V com uma corrente nec
 
 #
 #
-<img src="https://github.com/lfs676/ESP32-Gerador-de-Sinais/blob/main/Images/Schematic.jpg?raw=true">
+<img src="https://github.com/lfs676/ESP32-LED-Strip-Controller/blob/main/images/Schematic.jpg?raw=true">
 
 #
 #
-<img src="https://github.com/lfs676/ESP32-Gerador-de-Sinais/blob/main/Images/Layout.png?raw=true">
-
-#
-#
-<img src="https://github.com/lfs676/ESP32-Gerador-de-Sinais/blob/main/Images/Project.jpg?raw=true">
+<img src="https://github.com/lfs676/ESP32-LED-Strip-Controller/blob/main/images/Layout.png?raw=true">
